@@ -4,9 +4,9 @@ from bs4 import BeautifulSoup
 import html
 
 # Page Config
-st.set_page_config(page_title="Financial Leak Reader", page_icon="🕵️‍♂️")
+st.set_page_config(page_title="Operations Financieres", page_icon="🕵️‍♂️")
 
-st.title("🕵️‍♂️ The Financial Leak Reader")
+st.title("🕵️‍♂️ Operations Financieres")
 st.write("Paste the locked article URL below to bypass the blockage.")
 
 # Input
